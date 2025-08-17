@@ -1,0 +1,9 @@
+{
+  "name": "react-webpack-scaffold-cli",
+  "version": "1.0.0",
+  "description": "A CLI tool to scaffold a React + Webpack project",
+  "bin": {
+    "react-webpack-scaffold": "./cli.js"
+  },
+  "license": "MIT"
+}
